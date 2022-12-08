@@ -10,11 +10,11 @@ namespace Practica1
     {
         static void Main(string[] args)
         {
-            int Edad = 21;
-            string Nombre = "Cristian";
-            string Pais = "Rumania";
-
-            Console.WriteLine("Hola mi nombre es: {0}, tengo {1} años de edad y me gustaria conocer  {2}", Edad, Nombre, Pais);
+            Console.WriteLine("Cristian Enrique Ceballos Ramirez");
+            Console.ReadKey();
+            Console.WriteLine("Mexicali, Baja California");
+            Console.ReadKey();
+            Console.WriteLine("21");
             Console.ReadKey();
         }
     }
